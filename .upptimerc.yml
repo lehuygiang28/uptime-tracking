@@ -5,14 +5,14 @@ repo: open-source-uptime # The name of this repository
 sites:
   - name: Giaang Homepage
     url: https://giaang.id.vn
+  - name: Giaang Uptime page
+    url: https://uptime.giaang.id.vn
   - name: VNPay Lib Documentations
     url: https://vnpay-lib.vercel.app
   - name: '@vn-utils/text Documentations'
     url: https://vn-text.vercel.app
   - name: Github
     url: https://github.com/lehuygiang28
-  - name: Uptime page
-    url: https://uptime.giaang.id.vn
   - name: TechCell Api
     url: https://api.techcell.cloud/docs
   - name: TechCell FE
@@ -28,7 +28,7 @@ status-website:
   cname: uptime.giaang.id.vn
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: "giaang's uptime page"
   introTitle: "giaang's project uptime status page"
   introMessage: This is a status page which uses **real-time** data for my projects
   navbar:
