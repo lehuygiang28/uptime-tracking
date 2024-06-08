@@ -11,8 +11,10 @@ sites:
     url: https://vnpay-lib.vercel.app
   - name: '@vn-utils/text Documentations'
     url: https://vn-text.vercel.app
-  - name: Github
-    url: https://github.com/lehuygiang28
+  - name: TaskTr API
+    url: https://tasktr-be.onrender.com/api/ping
+  - name: TaskTr UI
+    url: https://tasktr.vercel.app/api/ping
   - name: TechCell Api
     url: https://api.techcell.cloud/docs
   - name: TechCell FE
