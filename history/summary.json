@@ -76,9 +76,9 @@
     "url": "https://tasktr-be.onrender.com/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/tasktr-be.onrender.com.ico",
     "slug": "task-tr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 349,
     "timeMonth": 349,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-10": 0
+    }
   },
   {
     "name": "TaskTr UI",
@@ -95,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tasktr.vercel.app.ico",
     "slug": "task-tr-ui",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
