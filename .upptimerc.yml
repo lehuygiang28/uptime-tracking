@@ -11,10 +11,12 @@ sites:
     url: https://vnpay-lib.vercel.app
   - name: '@vn-utils/text Documentations'
     url: https://vn-text.vercel.app
-  - name: TaskTr API
-    url: https://tasktr-be.onrender.com/api/ping
   - name: TaskTr UI
     url: https://tasktr.vercel.app/api/ping
+  - name: TaskTr API
+    url: https://tasktr-be.onrender.com/api/ping
+  - name: TaskTr Worker
+    url: https://lehuygiang28-tasktr-worker.hf.space/api/ping
 
 assignees: # Users to assign downtime issues (optional)
   - lehuygiang28
