@@ -1,7 +1,7 @@
 url: https://tasktr.vercel.app/api/ping
-status: up
-code: 200
-responseTime: 226
-lastUpdated: 2024-06-13T23:17:00.131Z
+status: down
+code: 404
+responseTime: 38
+lastUpdated: 2024-06-14T18:40:14.028Z
 startTime: 2024-06-08T15:55:33.809Z
 generator: Upptime <https://github.com/upptime/upptime>
