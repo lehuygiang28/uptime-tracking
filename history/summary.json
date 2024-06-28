@@ -121,19 +121,19 @@
     "url": "https://lehuygiang28-tasktr-worker.hf.space/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/lehuygiang28-tasktr-worker.hf.space.ico",
     "slug": "task-tr-worker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 1145,
-    "timeWeek": 474,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 303,
+    "timeDay": 937,
+    "timeWeek": 479,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-06-28": 0
+      "2024-06-28": 5
     }
   }
 ]
