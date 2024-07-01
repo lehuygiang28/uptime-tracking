@@ -1,6 +1,5 @@
-# Change these first
-owner: lehuygiang28 # Your GitHub organization or username, where this repository lives
-repo: uptime-tracking # The name of this repository
+owner: lehuygiang28
+repo: uptime-tracking
 
 sites:
   - name: Giaang Homepage
@@ -14,17 +13,15 @@ sites:
   - name: TaskTr UI
     url: https://tasktr.vercel.app/api/ping
   - name: TaskTr API
-    url: https://tasktr-be.vercel.app/api/ping
+    url: https://tasktr-be.onrender.com/api/ping
   - name: TaskTr Worker
     url: https://lehuygiang28-tasktr-worker.hf.space/api/ping
 
-assignees: # Users to assign downtime issues (optional)
+assignees:
   - lehuygiang28
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.giaang.id.vn
-  # baseUrl: /your-repo-name
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "giaang's uptime page"
   introTitle: "giaang's project uptime status page"
@@ -34,6 +31,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/lehuygiang28/uptime-tracking
+
+user-agent: github.com/lehuygiang28/uptime-tracking
+skipDeleteIssues: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
