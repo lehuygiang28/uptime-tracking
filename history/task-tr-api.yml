@@ -1,7 +1,7 @@
-url: https://tasktr-be.onrender.com/api/ping
-status: down
-code: 503
-responseTime: 449
-lastUpdated: 2024-07-01T23:17:03.397Z
+url: https://tasktr-be.vercel.app/api/ping
+status: up
+code: 200
+responseTime: 6228
+lastUpdated: 2024-07-02T02:30:57.916Z
 startTime: 2024-06-08T15:55:33.098Z
 generator: Upptime <https://github.com/upptime/upptime>
