@@ -6,8 +6,8 @@ sites:
     url: https://giaang.id.vn
   - name: Giaang Uptime page
     url: https://uptime.giaang.id.vn
-  - name: VNPay Lib Documentations
-    url: https://vnpay-lib.vercel.app
+  - name: vnpayjs Documentations
+    url: https://vnpay.js.org
   - name: '@vn-utils/text Documentations'
     url: https://vn-text.vercel.app
   - name: TaskTr UI
