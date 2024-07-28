@@ -123,7 +123,7 @@
     "url": "https://lehuygiang28-tasktr-worker.hf.space/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/lehuygiang28-tasktr-worker.hf.space.ico",
     "slug": "task-tr-worker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "99.67%",
     "uptimeWeek": "99.95%",
