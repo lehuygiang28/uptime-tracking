@@ -1,7 +1,7 @@
 url: https://lehuygiang28-tasktr-worker.hf.space/api/ping
-status: down
-code: 504
-responseTime: 10784
-lastUpdated: 2024-07-31T18:35:51.018Z
+status: up
+code: 200
+responseTime: 94
+lastUpdated: 2024-07-31T18:40:20.469Z
 startTime: 2024-06-12T14:17:57.422Z
 generator: Upptime <https://github.com/upptime/upptime>
