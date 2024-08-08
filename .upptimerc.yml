@@ -13,9 +13,7 @@ sites:
   - name: TaskTr UI
     url: https://tasktr.vercel.app/api/ping
   - name: TaskTr API
-    url: https://tasktr-be.vercel.app/api/ping
-  - name: TaskTr Worker
-    url: https://lehuygiang28-tasktr-worker.hf.space/api/ping
+    url: https://lehuygiang28-tasktr-api.hf.space/api/ping
 
 assignees:
   - lehuygiang28
