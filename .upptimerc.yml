@@ -6,14 +6,11 @@ sites:
     url: https://giaang.id.vn
   - name: Giaang Uptime page
     url: https://uptime.giaang.id.vn
-  - name: vnpayjs Documentations
-    url: https://vnpay.js.org
-  - name: '@vn-utils/text Documentations'
-    url: https://vn-text.vercel.app
-  - name: TaskTr UI
-    url: https://tasktr.vercel.app/api/ping
   - name: TaskTr API
     url: https://lehuygiang28-tasktr-api.hf.space/api/ping
+  - name: VePhim API hf
+    url: https://lehuygiang28-vphim-api-wk1.hf.space/api/categories?limit=1
+  
 
 assignees:
   - lehuygiang28
