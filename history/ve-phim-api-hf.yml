@@ -1,7 +1,7 @@
 url: https://lehuygiang28-vphim-api-wk1.hf.space/api/categories?limit=1
-status: down
-code: 500
-responseTime: 79
-lastUpdated: 2024-10-12T19:00:09.935Z
+status: up
+code: 200
+responseTime: 265
+lastUpdated: 2024-10-12T19:05:10.947Z
 startTime: 2024-10-10T16:47:53.268Z
 generator: Upptime <https://github.com/upptime/upptime>
