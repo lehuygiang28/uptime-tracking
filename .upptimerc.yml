@@ -9,7 +9,7 @@ sites:
   - name: TaskTr API
     url: https://lehuygiang28-tasktr-api.hf.space/api/ping
   - name: VePhim API hf
-    url: https://lehuygiang28-vphim-api-wk1.hf.space/api/categories?limit=1
+    url: https://gh150-vphim-api-wk7.hf.space/api/categories?limit=1
   
 
 assignees:
