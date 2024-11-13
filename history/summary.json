@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 345,
-    "timeWeek": 333,
+    "timeWeek": 335,
     "timeMonth": 287,
     "timeYear": 322,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 433,
-    "timeWeek": 366,
+    "timeWeek": 372,
     "timeMonth": 256,
     "timeYear": 262,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "97.93%",
     "time": 791,
     "timeDay": 323,
-    "timeWeek": 198,
+    "timeWeek": 213,
     "timeMonth": 224,
     "timeYear": 791,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
     "url": "https://api.vephim.online/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.vephim.online.ico",
     "slug": "ve-phim-api-hf",
-    "status": "up",
+    "status": "down",
     "uptime": "95.46%",
     "uptimeDay": "85.42%",
     "uptimeWeek": "97.92%",
@@ -81,7 +81,7 @@
     "uptimeYear": "95.46%",
     "time": 312,
     "timeDay": 259,
-    "timeWeek": 249,
+    "timeWeek": 257,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
