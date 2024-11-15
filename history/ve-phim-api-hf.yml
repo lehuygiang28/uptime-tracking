@@ -1,7 +1,7 @@
 url: https://api.vephim.online/api/ping
-status: down
-code: 503
-responseTime: 253
-lastUpdated: 2024-11-15T09:55:49.279Z
+status: up
+code: 200
+responseTime: 404
+lastUpdated: 2024-11-15T10:05:15.650Z
 startTime: 2024-10-10T16:47:53.268Z
 generator: Upptime <https://github.com/upptime/upptime>
