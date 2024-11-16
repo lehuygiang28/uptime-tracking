@@ -73,21 +73,21 @@
     "url": "https://api.vephim.online/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.vephim.online.ico",
     "slug": "ve-phim-api-hf",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "73.82%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.03%",
-    "time": 243,
-    "timeDay": 209,
-    "timeWeek": 228,
-    "timeMonth": 239,
-    "timeYear": 243,
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "73.87%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "99.04%",
+    "time": 246,
+    "timeDay": 211,
+    "timeWeek": 230,
+    "timeMonth": 241,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2024-11-16": 97,
       "2024-11-15": 368,
-      "2024-11-14": 48
+      "2024-11-14": 43
     }
   }
 ]
