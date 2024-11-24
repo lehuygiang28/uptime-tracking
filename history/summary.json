@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lehuygiang28-tasktr-api.hf.space.ico",
     "slug": "task-tr-api",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.07%",
     "time": 867,
     "timeDay": 326,
     "timeWeek": 2200,
@@ -75,12 +75,12 @@
     "url": "https://api.vephim.online/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.vephim.online.ico",
     "slug": "ve-phim-api-hf",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "98.88%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.78%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.80%",
     "time": 248,
     "timeDay": 296,
     "timeWeek": 776,
@@ -91,7 +91,7 @@
       "2024-11-18": 5,
       "2024-11-17": 49,
       "2024-11-16": 614,
-      "2024-11-15": 107
+      "2024-11-15": 99
     }
   }
 ]
