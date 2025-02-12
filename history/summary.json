@@ -22,10 +22,10 @@
     "url": "https://uptime.giaang.id.vn",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.giaang.id.vn.ico",
     "slug": "giaang-uptime-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
@@ -33,7 +33,9 @@
     "timeWeek": 369,
     "timeMonth": 355,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 1
+    }
   },
   {
     "name": "TaskTr API",
@@ -77,9 +79,9 @@
     "url": "https://api.vephim.online/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.vephim.online.ico",
     "slug": "ve-phim-api-hf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
@@ -89,13 +91,14 @@
     "timeMonth": 242,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2025-02-12": 0,
       "2024-11-27": 5,
       "2024-11-26": 94,
       "2024-11-25": 40,
       "2024-11-24": 192,
       "2024-11-18": 5,
       "2024-11-17": 49,
-      "2024-11-16": 528
+      "2024-11-16": 523
     }
   }
 ]
