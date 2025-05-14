@@ -4,9 +4,9 @@
     "url": "https://giaang.id.vn",
     "icon": "https://icons.duckduckgo.com/ip3/giaang.id.vn.ico",
     "slug": "giaang-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 314,
     "timeMonth": 413,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   },
   {
     "name": "Giaang Uptime page",
     "url": "https://uptime.giaang.id.vn",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.giaang.id.vn.ico",
     "slug": "giaang-uptime-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 368,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2025-05-14": 0,
       "2025-02-12": 4
     }
   },
