@@ -8,9 +8,6 @@ sites:
     url: https://uptime.giaang.id.vn
   - name: TaskTr API
     url: https://lehuygiang28-tasktr-api.hf.space/api/ping
-  - name: VePhim API hf
-    url: https://api.vephim.online/api/ping
-  
 
 assignees:
   - lehuygiang28
